@@ -1,0 +1,136 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": true,
+      "texture": false,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+        "name": "Joey Drew Studios Bendy",
+        "role": "Ever wanted a bendy world with the bendy add on V3.1? And all the chapters in one world? WELL NOW YOU CAN! With this world dreams really do come true. So grab your weapon and adventure Into the ink filled studio hey this world is so great you might never want to leave.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/29/satu'.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/29/JoeyDrewStudios.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/29/dua.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/29/dua.png"
+    },
+    {
+        "name": "10 Unique Command Block Creations",
+        "role": "command blocks are a type of block in minecraft which can execute commands automatically, To get one simply type 'give @s command_block' into the in-game chat! Now your ready to go! But what's that? you need some inspiration? Well, dear reader, you've come to the right place! To demonstrate the power of these little blocky machines, ive compiled a map featuring 10 unique creations which were created with the power of commands! If you so wish, feel free to go into creative mode and check out the commands themselves, you This map features 10 (+1 by Imperial archive) completely unique command block creations, varying from a skeleton you can dress up, to a UFO that ubducts you, theres something to grab anyone's interest!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/30/tiga.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/30/L77s-10-Cmd-block-creations-1_1595431888.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/30/satu.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/30/dua.png"
+    },
+    {
+        "name": "Wither Skeleton Morph",
+        "role": "This map is a map using commands to create a wither skeleton morph with special abilities, unlike actual wither skeleton mobs, you have completely different abilities to them. This map was made as a showcase map, intended for players to either actually use it for survival, ignoring the showcase area, or look at the showcase and try it out themself.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/34/Wither Skelly Morph.mcworld",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png"
+    }
+  ],
+  "Texture": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/8InTr6vc4bkkGyS976rSI1OXzbNA-5o9wxbYMkoJTQEiMc3A3Ob_58fPrMTr2mCm-DOAy3ND3bX3dh8vY0fzUfO1RaUWfzLRdd4",
+    "view_skin": "https://lh3.googleusercontent.com/m4kZTb4bIeAPQr_TQ7FhMASg90Q09FuPfQbm5l8EOC_XdSfOPmYViMJ3zcCU4SH6xqwb7iEKh_gmQ__uygqKKiZs9ZB8XWm_MCHb"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/j_avXi8ULZQ3k_UasMXD_nN0cdOK41fq0gvrOMPhADa3N_g0UkANqB4kZ8KDc9yDecB41FT5IeO5eoUKJHTnrw",
+    "view_skin": "https://lh3.googleusercontent.com/XnN0jJ0jrCyJWRUYQhucdXXBDxUcVVlJzb371v51CHCpVwOUGs9Rnxuo9Cgo2q4TWqOPzmVqY7o_JoMQaL2oLg"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/b3JPlrzt2vU8EWqdiggo7_WpN1DAYgEgxaKdJDLVV26EElh_5iaVNeNWcCKo2Q_4mMEYl6-expBp0xkfgr1J-w",
+    "view_skin": "https://lh3.googleusercontent.com/U633qsuN9BWNsyEjWpfKPZiRfVeQYHc6rWd6CHQIg1FIGyMqokz_UwiyfeRwUO9ACAsAG7KKX8lsiqp8CbcuMw"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/PMeus_tgVNiBZ_opStIEsGMciI4PucAUp6lDu5UYRpQtnLy8emPonE1pxELWzL_gNz1M4f-3XgXjPaI2BiwWSQ",
+    "view_skin": "https://lh3.googleusercontent.com/Hbla-1f18qpbqkRCXXhRDQSjjK5nsmlV8TTdSTNmUMqx9K1V9qT6DQadA9sX8a2Rc8WAXaZBseiO9fnTtwu3Rw"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/asIG84n2IHHKERQ3GLEtQllp8pAN6-MTwE_22Km_-LKBFfV5O8_3Q6T6mU1WBWfNoEqSW8MsackOr8-dcsNrGlM5jgSB2-IVX7xs",
+    "view_skin": "https://lh3.googleusercontent.com/UOj5AqDELGDB_FIJk46rPe-jhEQ8ZiuWTXeZ1IQA7p_EjxTh6shpD46AoymAP5SDZKZlEj3IXB4rKaYCLghmeq5hSQfnN5xICTg"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/KcPRPtGWshjVmeVtK599WwMFOctFHNjRsKimEdONnTCbil9O1p6dk5lfOyF5LcKJkPAkaiNGLQmgS6gq2ScssA",
+    "view_skin": "https://lh3.googleusercontent.com/q7qVP8_k7CKDOjFHymPUQ1geHKxOt5sGXYiC2L5iDUTrcbtCRWPOu7dDIRs8zMFKq-2aEAJXKnrsO992j5U6"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}

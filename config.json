@@ -8,7 +8,7 @@
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": true,
+      "maps": false,
       "texture": false,
       "skin": true,
       "more": false,
@@ -45,28 +45,12 @@
   ],
   "Map": [
     {
-        "name": "Joey Drew Studios Bendy",
-        "role": "Ever wanted a bendy world with the bendy add on V3.1? And all the chapters in one world? WELL NOW YOU CAN! With this world dreams really do come true. So grab your weapon and adventure Into the ink filled studio hey this world is so great you might never want to leave.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/29/satu'.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/29/JoeyDrewStudios.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/29/dua.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/29/dua.png"
-    },
-    {
-        "name": "10 Unique Command Block Creations",
-        "role": "command blocks are a type of block in minecraft which can execute commands automatically, To get one simply type 'give @s command_block' into the in-game chat! Now your ready to go! But what's that? you need some inspiration? Well, dear reader, you've come to the right place! To demonstrate the power of these little blocky machines, ive compiled a map featuring 10 unique creations which were created with the power of commands! If you so wish, feel free to go into creative mode and check out the commands themselves, you This map features 10 (+1 by Imperial archive) completely unique command block creations, varying from a skeleton you can dress up, to a UFO that ubducts you, theres something to grab anyone's interest!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/30/tiga.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/30/L77s-10-Cmd-block-creations-1_1595431888.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/30/satu.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/30/dua.png"
-    },
-    {
-        "name": "Wither Skeleton Morph",
-        "role": "This map is a map using commands to create a wither skeleton morph with special abilities, unlike actual wither skeleton mobs, you have completely different abilities to them. This map was made as a showcase map, intended for players to either actually use it for survival, ignoring the showcase area, or look at the showcase and try it out themself.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/34/Wither Skelly Morph.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/34/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Texture": [
